@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao perfil do Michel Roque 😁
+<img width="200" height="200" alt="goku-pixel-art-goku" src="https://github.com/user-attachments/assets/394e0de8-b09a-4853-a573-3af21cc0d9b7" />
 
  <div>
    <a href="https://github.com/michelroquedev">
