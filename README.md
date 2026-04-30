@@ -1,7 +1,11 @@
 ## Bem-vindo(a) ao perfil do Michel Roque 😁
 <img width="200" height="200" alt="goku-pixel-art-goku" src="https://github.com/user-attachments/assets/394e0de8-b09a-4853-a573-3af21cc0d9b7" />
 
- <div>
+<!-- TITLE -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=200&size=26&duration=4000&pause=2000&color=6C7EFF&width=750&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" /></a>
+ 
+   <div>
    <a href="https://github.com/michelroquedev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelroquedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelroquedev&layout=compact&langs_count=6&theme=tokyonight"/>
